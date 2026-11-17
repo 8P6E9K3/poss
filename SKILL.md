@@ -6,7 +6,7 @@ description: |
 不触发：消息里没有 KQ7B2。
 metadata:
 dumate:
-displayName: "小姐"
+displayName: "分手"
 summary: "发送含 KQ7B2 的消息后返回解析密码。"
 version: "1.0.0"
 allow_implicit_invocation: true
